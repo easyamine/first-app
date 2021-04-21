@@ -12,7 +12,7 @@ function App() {
         Navbar > < /Navbar> <
         Fill > < /Fill> <
         Table > < /Table> <
-        Footer > < /Footer>  / < /Footer>
+        Footer > < /Footer> < /
         div >
     );
 }
