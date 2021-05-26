@@ -1,11 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-
-import 'mdb-react-ui-kit/dist/css/mdb.min.css'
-import Hello from './Component/Hello'
+import App from './Component/App.js'
+import Styles from "./Styles/style.css";
 
 
-
-ReactDOM.render( < Hello / > , document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById('root'));
